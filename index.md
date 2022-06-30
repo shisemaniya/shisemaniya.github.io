@@ -11,3 +11,5 @@ The app supports adding multiple reminders to an event in minutes, hours, days, 
 
 Currently, only English and Amharic languages are supported but more languages will be added in the future.
 
+Download the Ethiopian Calendar app from playstore (https://play.google.com/store/apps/details?id=et.shisemaniya.calendar).
+
