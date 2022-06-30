@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Shisemaniya Web Page
 
-You can use the [editor on GitHub](https://github.com/shisemaniya/shisemaniya.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**Shisemaniya** is commited to develop professional mobile application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 1. Ethiopian Calendar
+Ethiopian Calendar is a free application to manage schedules, create calendar events, set reminders, convert dates, and much more. The app supports displaying dates in Ethiopian chronology, Gregorian chronology, and Ethiopian chronology with Geez dates with an option to display one or two calendars at a time.
 
-### Markdown
+With the Ethiopian calendar app, you can create, edit and delete events locally without requiring an Internet connection or sync with your Google calendar so that you never miss an event even if you change your mobile device. Whether you create events in Ethiopian or Gregorian dates, the app will take care of syncing your events with Google and local calendars.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The app supports adding multiple reminders to an event in minutes, hours, days, or weeks so that you never forget about a meeting!. Additionally, it enables tracking national holidays for the current or different years.
 
-```markdown
-Syntax highlighted code block
+Currently, only English and Amharic languages are supported but more languages will be added in the future.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shisemaniya/shisemaniya.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
